@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReligiousSubscription", "ReligiousSubscription\ReligiousSubscription.csproj", "{4F654E45-89AC-40A1-B17D-703FA85DFD58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReligiousSubscription.Model", "ReligiousSubscription.Model\ReligiousSubscription.Model.csproj", "{3904BDE8-7BA8-45CD-B1F8-CA508F76BADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReligiousSubscription.DataAccessLayer", "ReligiousSubscription.DataAccessLayer\ReligiousSubscription.DataAccessLayer.csproj", "{C5F5BC00-846E-447E-AABB-7C8DC59AE578}"
+EndProject
+<<<<<<< HEAD
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReligiousSubscription.Web.Tests", "ReligiousSubscription.Web.Tests\ReligiousSubscription.Web.Tests.csproj", "{4D84A6F4-1181-4805-A138-19A5DA936DBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReligiousSubscription.Web", "ReligiousSubscription.Web\ReligiousSubscription.Web.csproj", "{B2355C6C-0880-4974-9881-54DFA8300AB3}"
+EndProject
+>>>>>>> 568da6411df42418d375a65d43eeda78f3480145
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F654E45-89AC-40A1-B17D-703FA85DFD58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F654E45-89AC-40A1-B17D-703FA85DFD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F654E45-89AC-40A1-B17D-703FA85DFD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F654E45-89AC-40A1-B17D-703FA85DFD58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3904BDE8-7BA8-45CD-B1F8-CA508F76BADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3904BDE8-7BA8-45CD-B1F8-CA508F76BADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3904BDE8-7BA8-45CD-B1F8-CA508F76BADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3904BDE8-7BA8-45CD-B1F8-CA508F76BADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F5BC00-846E-447E-AABB-7C8DC59AE578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F5BC00-846E-447E-AABB-7C8DC59AE578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F5BC00-846E-447E-AABB-7C8DC59AE578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F5BC00-846E-447E-AABB-7C8DC59AE578}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+=======
+		{4D84A6F4-1181-4805-A138-19A5DA936DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D84A6F4-1181-4805-A138-19A5DA936DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D84A6F4-1181-4805-A138-19A5DA936DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D84A6F4-1181-4805-A138-19A5DA936DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2355C6C-0880-4974-9881-54DFA8300AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2355C6C-0880-4974-9881-54DFA8300AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2355C6C-0880-4974-9881-54DFA8300AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2355C6C-0880-4974-9881-54DFA8300AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 568da6411df42418d375a65d43eeda78f3480145
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
